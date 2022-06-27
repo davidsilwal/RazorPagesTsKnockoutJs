@@ -19,10 +19,11 @@
 
 </div>
 
-@section Scripts{
-    <script src="~/externals/require.js"></script>
-    <script src="~/built/require-config.js"></script>
+@section Scripts
+    {
+    <script src="~/lib/requirejs/require.js"></script>
+    <script src="~/scripts/require-config.js"></script>
     <script>
-        require(["built/hello"]);
+        require(["scripts/hello"]);
     </script>
 }

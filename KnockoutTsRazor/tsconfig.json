@@ -1,14 +1,14 @@
 {
-	"compilerOptions": {
-		"outDir": "wwwroot/built",
-		"sourceMap": true,
-		"noImplicitAny": true,
-		"module": "amd",
-		"target": "es5"
-	},
-	"files": [
-		"./scripts/require-config.ts",
-		"./scripts/hello.ts"
-	],
-	"compileOnSave": true
+  "compilerOptions": {
+    "outDir": "wwwroot/scripts",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "amd",
+    "target": "es5"
+  },
+  "files": [
+    "./Scripts/require-config.ts",
+    "./Scripts/hello.ts"
+  ],
+  "compileOnSave": true
 }

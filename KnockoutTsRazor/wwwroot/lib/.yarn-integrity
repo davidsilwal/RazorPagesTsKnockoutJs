@@ -1,0 +1,34 @@
+{
+  "systemParams": "win32-x64-93",
+  "modulesFolders": [
+    "wwwroot\\lib"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "@fortawesome/fontawesome-free@^6.1.1",
+    "@types/knockout@^3.4.72",
+    "bootstrap@^5.1.3",
+    "jquery-validation-unobtrusive@^3.2.12",
+    "jquery-validation@^1.19.4",
+    "jquery@^3.6.0",
+    "knockout@^3.5.1",
+    "require.js@^1.0.0",
+    "requirejs@^2.3.6"
+  ],
+  "lockfileEntries": {
+    "@fortawesome/fontawesome-free@^6.1.1": "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.1.1.tgz#bf5d45611ab74890be386712a0e5d998c65ee2a1",
+    "@types/knockout@^3.4.72": "https://registry.yarnpkg.com/@types/knockout/-/knockout-3.4.72.tgz#d4e1232d56de228347823ee8f6df6ae7a60b050e",
+    "bootstrap@^5.1.3": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.1.3.tgz#ba081b0c130f810fa70900acbc1c6d3c28fa8f34",
+    "jquery-validation-unobtrusive@^3.2.12": "https://registry.yarnpkg.com/jquery-validation-unobtrusive/-/jquery-validation-unobtrusive-3.2.12.tgz#1d52841f653e516525c251e494b042e664dad8af",
+    "jquery-validation@>=1.16": "https://registry.yarnpkg.com/jquery-validation/-/jquery-validation-1.19.4.tgz#a765781d954e5876fa437d5c75b7a9440bfa37a8",
+    "jquery-validation@^1.19.4": "https://registry.yarnpkg.com/jquery-validation/-/jquery-validation-1.19.4.tgz#a765781d954e5876fa437d5c75b7a9440bfa37a8",
+    "jquery@^3.5.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470",
+    "jquery@^3.6.0": "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470",
+    "knockout@^3.5.1": "https://registry.yarnpkg.com/knockout/-/knockout-3.5.1.tgz#62c81e81843bea2008fd23c575edd9ca978e75cf",
+    "require.js@^1.0.0": "https://registry.yarnpkg.com/require.js/-/require.js-1.0.0.tgz#71fa3273366af4427b0265a218be5e62ed4f90c8",
+    "requirejs@^2.3.6": "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.6.tgz#e5093d9601c2829251258c0b9445d4d19fa9e7c9"
+  },
+  "files": [],
+  "artifacts": {}
+}
